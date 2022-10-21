@@ -1,16 +1,16 @@
 {
-"name": "led168",
-"theme": "led168",
-"version": "10.5.1",
-"description": "led168 ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
-"keywords": [
-"led168",
-"led168 เครดิตฟรี",
-"led168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/led168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "led168",
+  "theme": "led168",
+  "version": "10.6.0",
+  "description": "led168 ทางเข้าหลักเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "led168",
+    "led168 เครดิตฟรี",
+    "led168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/led168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
